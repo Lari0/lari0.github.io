@@ -1,7 +1,13 @@
 ---
 layout: home
-title: Home
+title: Welcome
 ---
 
-# Hello 👋
-Welcome to my Jekyll site on GitHub Pages!
+# IT Control
+
+Welcome to my personal site.
+
+- Engineering
+- Systems
+- Infrastructure
+- Notes and projects
