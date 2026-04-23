@@ -1,5 +1,6 @@
 title: My Jekyll Site
 description: My first GitHub Pages site
 theme: minima
-
+baseurl: ""
+url: "https://www.itcontrol.ie/"
 
