@@ -2,6 +2,6 @@ title: IT Control
 description: Personal website for IT Control
 url: "https://www.itcontrol.ie"
 baseurl: ""
-theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
