@@ -6,17 +6,17 @@ url: https://www.itcontrol.ie
 remote_theme: piazzai/cvless
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: Stay in Control of Your IT Systems
+tagshort: 
 
 # author settings
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: assets/files/photo.jpg
+  name: 
+  email: info@itcontrol.ie
+photo: assets/files/photo.png
 joblines:
-  - University of Jekyll
-  - Department of Themes
+  - Cork
+  - Co Cork
 address: Foobar
 phone: +353 1231
 
