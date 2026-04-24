@@ -32,7 +32,7 @@ profile:
   #stackoverflow: https://stackoverflow.com/users/0000000/username
   #medium: https://medium.com/@username
   #github: https://github.com/username
-  cv: true
+  contact: true
 
 # build settings
 permalink: pretty
