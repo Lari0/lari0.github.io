@@ -1,5 +1,5 @@
-title: IT CONTROL
-description: test
+title: IT CONTROL Services
+description: Stay in Control of Your IT Systems
 baseurl: ""
 url: https://www.itcontrol.ie
 
@@ -14,24 +14,24 @@ author:
   name: 
   email: info@itcontrol.ie
 photo: assets/files/photo.png
-joblines:
-  - Cork
-  - Co Cork
-address: Foobar
-phone: +353 1231
+#joblines:
+#  - Cork
+#  - Co Cork
+#address: Foobar
+#phone: +353 1231
 
 # profile links
 profile:
   facebook: https://www.facebook.com/username
-  x: https://x.com/username
-  mastodon: https://mastodon.social/@username
-  bluesky: https://bsky.app/profile/username.bsky.social
-  instagram: https://www.instagram.com/username
-  linkedin: https://www.linkedin.com/in/username
-  xing: https://www.xing.com/profile/username
-  stackoverflow: https://stackoverflow.com/users/0000000/username
-  medium: https://medium.com/@username
-  github: https://github.com/username
+  #x: https://x.com/username
+  #mastodon: https://mastodon.social/@username
+  #bluesky: https://bsky.app/profile/username.bsky.social
+  #instagram: https://www.instagram.com/username
+  #linkedin: https://www.linkedin.com/in/username
+  #xing: https://www.xing.com/profile/username
+  #stackoverflow: https://stackoverflow.com/users/0000000/username
+  #medium: https://medium.com/@username
+  #github: https://github.com/username
   cv: true
 
 # build settings
