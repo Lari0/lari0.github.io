@@ -3,7 +3,7 @@ description: test
 baseurl: ""
 url: https://www.itcontrol.ie
 
-theme: cvless
+remote_theme: piazzai/cvless
 
 # site settings
 taglong: Jekyll theme for a beautiful online CV
@@ -17,9 +17,8 @@ photo: assets/files/photo.jpg
 joblines:
   - University of Jekyll
   - Department of Themes
-  - 123 Main St, Anytown, USA
-address: Foobar Hall 1.23
-phone: +1 234 567 890
+address: Foobar
+phone: +353 1231
 
 # profile links
 profile:

@@ -1,3 +1,5 @@
 source "https://rubygems.org"
 
-gem 'cvless', '~> 2.7', '>= 2.7.3'
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-remote-theme"
+gem "cvless"
