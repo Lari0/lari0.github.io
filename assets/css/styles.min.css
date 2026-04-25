@@ -343,7 +343,10 @@ a.reversefootnote {
   min-height: 100vh; }
   .fullscreen h1,
   .fullscreen h2 {
-    color: var(--color-particles-text); }
+    color: var(--color-particles-text); 
+    /* max-width: 100px; --> */
+    height: auto;
+  }
 
 .particles-photo {
   width: 50%;
@@ -353,14 +356,16 @@ a.reversefootnote {
 
 .particles-title {
   margin: 0;
-  font-size: 2.5em;
+  font-size: 1.5em;
   font-weight: 500;
   white-space: nowrap; }
 
 .particles-subtitle {
   margin: 0 0 1em 0;
   font-size: 1.25em;
-  font-weight: 400; }
+  font-weight: 400;
+  text-align: center !important;
+}
 
 .nowrap {
   white-space: nowrap; }
