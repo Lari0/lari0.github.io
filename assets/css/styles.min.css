@@ -181,7 +181,9 @@ footer {
   margin: 2em 0; }
 
 small {
-  font-weight: 300; }
+  font-weight: 100; }
+
+.centered { text-align: center !important; }
 
 abbr {
   text-transform: lowercase;
